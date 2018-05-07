@@ -1,0 +1,23 @@
+@import url("../css/bootstrap.min.css");
+
+.contacts h2{
+    color: #504f4f
+}
+
+.contacts .icon {
+    fill: currentColor;
+    height: 1.5428rem;
+    width: 1.5428rem;
+    margin-right: 3px;
+}
+
+.contacts span {
+    color: #00aff0;
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.contacts p span {
+    color: black;
+    font-size: 1em
+}
